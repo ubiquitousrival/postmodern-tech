@@ -1,0 +1,6 @@
+replicaCount: 1
+
+image:
+  repository: ghcr.io/ubiquitousrival/postmodern-tech
+  tag: "main" 
+  pullPolicy: Always
